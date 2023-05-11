@@ -1,13 +1,14 @@
-# Project Repository
+# DYOR
 
 ## Core Team Members
 
-- [Hanzalla Usman](https://github.com/HanzallaUsman)
 - [Abdullah Chaudhry](https://github.com/aqhra050)
-- [Talal Said](https://github.com/talalsaid1)
-- [Syed Umair Hussain Shah](https://github.com/Umairshah99)
-- [Sashank Silwal](https://github.com/sashanksilwal)
 - [Desmond Ofori Atta](https://github.com/Des-cloud)
+- [Hanzalla Usman](https://github.com/HanzallaUsman)
+- [Sashank Silwal](https://github.com/sashanksilwal)
+- [Syed Umair Hussain Shah](https://github.com/Umairshah99)
+- [Talal Said](https://github.com/talalsaid1)
+
 
 ## Project Description
 
@@ -19,35 +20,11 @@ Furthermore, we would also wish to aggregate news on Cryptocurrencies relevant t
 
 Lastly, we would seek to add the feature of Price Prediction for a short period of time into the future based on Technical Indicators, employing some relevant model of Machine Learning.
 
-For contributions please see the [CONTRIBUTING](https://github.com/software-students-fall2021/project-setup-dyor/blob/master/CONTRIBUTING.md) file. Thank you!
+For contributions please see the [CONTRIBUTING](https://github.com/sashanksilwal/DYOR/blob/master/CONTRIBUTING.md) file. Thank you!
 
 ## Deployment
 
 View our deployed website here: http://137.184.30.95:3000
-
-## Sprints
-
-### Assigned roles for Sprint 1
-
-Scrum Master: Hanzalla Usman <br>
-Product Owner: Abdullah Chaudhry
-
-### Assigned roles for Sprint 2
-
-Scrum Master: Sashank Silwal <br>
-Product Owner: Desmond Ofori Atta
-
-### Assigned roles for Sprint 3
-
-Scrum Master: Syed Umair Hussain Shah <br>
-Product Owner: Talal Said
-
-### Assigned roles for Sprint 4
-
-Scrum Master: Desmond Ofori Atta <br>
-Product Owner: Abdullah Chaudhry
-
-# Extra-Credit 
 
 1. We have employed continous deployment, in that one of the jobs for each commit in circleCI which requires manual approval and the successful completion of unit tests and the build process. The config file for as much may be viewed [here](./.circleci/config.yml)
 
